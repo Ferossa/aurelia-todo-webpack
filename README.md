@@ -1,0 +1,1 @@
+Minimal aurelia webpack setup for tutorial todo app.
