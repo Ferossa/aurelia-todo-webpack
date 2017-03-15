@@ -1,6 +1,9 @@
 {
   "name": "aurelia-todo-webpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack"
+  },
   "dependencies": {
     "aurelia-bootstrapper": "^2.1.1",
     "aurelia-event-aggregator": "^1.0.1",
